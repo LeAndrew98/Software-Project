@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login">Login</string>
+    <string name="username"></string>
+    <string name="title_activity_home">Home</string>
+    <string name="reminder">Remember to connect your device.</string>
+    <string name="susername">Username</string>
+    <string name="husername"></string>
+    <string name="button">Back</string>
+    <string name="sbutton">Settings</string>
+    <string name="signup">Sign Up</string>
+    <string name="spassword">Password</string>
+    <string name="fname">First Name</string>
+    <string name="lname">Last Name</string>
+    <string name="email">Email Addrress</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_about_us">AboutUs</string>
+    <string name="about_us">About Us</string>
+    <string name="humber">humber</string>
+    <string name="description">We will fill info about us here</string>
+    <string name="nunchuk">Wii Nunchuk</string>
+    <string name="projectdescrip">This is where we will fill in info about the project</string>
+    <string name="calibrate">Calibrate</string>
+    <string name="wii">wii</string>
+    <string name="test">test</string>
+    <string name="opening_image">opening</string>
+    <string name="quit">Quit</string>
+</resources>
